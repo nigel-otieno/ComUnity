@@ -1,0 +1,14 @@
+.messagepost{
+	text-align: center;
+	margin-top: 1%;
+}
+.messages{
+	background-color: #d2fffe;
+	height: 50%;
+	width: 50%;
+	margin-left: 25%;
+	border-style: solid;
+	padding: 2%;
+}
+.commentbox{
+}

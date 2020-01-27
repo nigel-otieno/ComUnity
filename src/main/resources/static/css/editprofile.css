@@ -1,0 +1,32 @@
+.eventcreator{
+  margin: auto;
+  width: 30%;
+  border: solid;
+  padding: 10px;
+  text-align: center;
+  background-color:  #e9fee8;
+  margin-top: 1%;
+}
+.cards{
+	padding-top: 1%;
+	height: 20%; 
+	width: 40%; 
+	margin-left: 29%;
+}
+.card-title{
+	display: inline-block;
+}
+.require {
+    color: #666;
+}
+label small {
+    color: #999;
+    font-weight: normal;
+}
+.container{
+	padding-left: 5%;
+	margin-top: 1%;
+}
+h1{
+	text-align: center;
+}
